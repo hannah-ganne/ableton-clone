@@ -1,7 +1,7 @@
 export default function ImageBloc({ children }) {
     return (
-        <div className="image-bloc">
+        <section className="image-bloc">
             {children}
-        </div>
+        </section>
     )
 }
