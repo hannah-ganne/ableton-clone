@@ -52,16 +52,46 @@ header section:last-child {
 }
 
 .text-container h3 {
-  font-size: 1.875rem;
+  font-size: 1.8rem;
+  font-weight: 500;
 }
 
 .text-container p {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .image-bloc {
   width: 100vw;
-  height: auto;
+  height: 850px;
   position: relative;
-  padding-bottom: 800px;
+  overflow: hidden;
+}
+
+.media-bloc {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+figure {
+  width: 50%;
+}
+
+iframe {
+  width: 100%;
+}
+
+.media-bloc img {
+  width: 80%;
+}
+
+.media-bloc h3, .media-bloc a {
+  font-size: 1.8em;
+  font-weight: 500;
+  line-height: 1.8em;
+}
+
+.media-bloc a {
+  color: #0000ff;
 }
