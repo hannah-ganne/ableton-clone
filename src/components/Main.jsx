@@ -60,13 +60,13 @@ export default function Main() {
             <MediaBloc>
                 <figure>
                     <iframe
-                        width="560"
-                        height="315"
+                        width="720"
+                        height="405"
                         src="https://www.youtube.com/embed/9SbnhgjeyXA"
                         title="YouTube video player"
-                        frameborder="0"
+                        frameBorder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen
+                        allowFullScreen
                     />
                     <figcaption>Why Ableton - Juanpe Bolivar</figcaption>
                 </figure>
