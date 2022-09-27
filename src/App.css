@@ -12,9 +12,33 @@ header section:first-child img {
   margin-right: 25px;
 }
 
-header section:last-child {
+header .header-secondary {
   padding: 10px 30px;
+  background-color: #ffffffb7;
+  position: fixed;
+  top: 83px;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  transition: transform 0.3s;
 }
+
+.scroll-down .header-secondary {
+  /* transform: translate3d(0, -220%, 0); */
+  transform: translateY(-166px)
+}
+
+.scroll-up .header-secondary {
+  transform: translateY(-83px);
+}
+
+/* .header-top .header-secondary {
+  top: 0;
+} */
+
+/* .header-fixed .header-secondary{
+  top: 83px;
+} */
 
 .divider {
   width: 100vw;
@@ -26,6 +50,7 @@ header section:last-child {
   display: flex;
   justify-content: center;
   position: relative;
+  margin-top: 71px;
 }
 
 .hero {
@@ -44,6 +69,10 @@ header section:last-child {
   display: flex;
   justify-content: center;
   margin: 8.3333vw auto;
+}
+
+.text-bloc a {
+  color: #0000ff;
 }
 
 .text-container {
@@ -181,3 +210,13 @@ footer h1 {
 .footer-secondary div p {
   margin-right: 1em;
 }
+
+/* MAIN RULES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* .page-header .trigger-menu svg {
+  fill: var(--white);
+  margin-right: 8px;
+  transition: transform 0.3s;
+} */
