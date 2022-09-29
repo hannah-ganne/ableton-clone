@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ableton/static/css/main.fb4b94d9.css",
-    "main.js": "/ableton/static/js/main.81fc9ace.js",
-    "static/media/proxyclick-visitor-management-system-l90zRbWvCoE-unsplash.jpg": "/ableton/static/media/proxyclick-visitor-management-system-l90zRbWvCoE-unsplash.8c83f816d71c8d5e1e5b.jpg",
-    "static/media/austin-distel-rxpThOwuVgE-unsplash.jpg": "/ableton/static/media/austin-distel-rxpThOwuVgE-unsplash.465dea4dd4e083862f30.jpg",
-    "static/media/oscar-ivan-esquivel-arteaga-7ggVlsBGruY-unsplash.jpg": "/ableton/static/media/oscar-ivan-esquivel-arteaga-7ggVlsBGruY-unsplash.6994c480aa42061b645b.jpg",
-    "static/media/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg": "/ableton/static/media/brooke-cagle-g1Kr4Ozfoac-unsplash.9becd43275ba20441774.jpg",
-    "static/media/tom-pottiger-l5XnUP7-M4w-unsplash.jpg": "/ableton/static/media/tom-pottiger-l5XnUP7-M4w-unsplash.d29364d6222f1d20be56.jpg",
-    "static/media/soundtrap-5Wj_tk8_Ens-unsplash.jpg": "/ableton/static/media/soundtrap-5Wj_tk8_Ens-unsplash.d730b5cc0ab18854af72.jpg",
-    "static/media/linkedin-sales-solutions-4ImnFgDZjVQ-unsplash.jpg": "/ableton/static/media/linkedin-sales-solutions-4ImnFgDZjVQ-unsplash.431c9349ee2738836658.jpg",
-    "static/media/barney-yau-BbGuVc9YTaw-unsplash.jpg": "/ableton/static/media/barney-yau-BbGuVc9YTaw-unsplash.aaf8a29c7cd2b47dbc3f.jpg",
-    "static/media/dorsa-masghati-jyNlrIiObWQ-unsplash.jpg": "/ableton/static/media/dorsa-masghati-jyNlrIiObWQ-unsplash.3a806c5bf182823646f2.jpg",
-    "static/media/tamas-pap-sLubgyNR31Y-unsplash.jpg": "/ableton/static/media/tamas-pap-sLubgyNR31Y-unsplash.3ab63843ac6e56a3e1eb.jpg",
-    "static/media/logo.svg": "/ableton/static/media/logo.6b821fbf2398542224861805fa8cf5cb.svg",
-    "index.html": "/ableton/index.html",
-    "main.fb4b94d9.css.map": "/ableton/static/css/main.fb4b94d9.css.map",
-    "main.81fc9ace.js.map": "/ableton/static/js/main.81fc9ace.js.map"
+    "main.css": "/ableton-clone/static/css/main.fb4b94d9.css",
+    "main.js": "/ableton-clone/static/js/main.b5b3086d.js",
+    "static/media/proxyclick-visitor-management-system-l90zRbWvCoE-unsplash.jpg": "/ableton-clone/static/media/proxyclick-visitor-management-system-l90zRbWvCoE-unsplash.8c83f816d71c8d5e1e5b.jpg",
+    "static/media/austin-distel-rxpThOwuVgE-unsplash.jpg": "/ableton-clone/static/media/austin-distel-rxpThOwuVgE-unsplash.465dea4dd4e083862f30.jpg",
+    "static/media/oscar-ivan-esquivel-arteaga-7ggVlsBGruY-unsplash.jpg": "/ableton-clone/static/media/oscar-ivan-esquivel-arteaga-7ggVlsBGruY-unsplash.6994c480aa42061b645b.jpg",
+    "static/media/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg": "/ableton-clone/static/media/brooke-cagle-g1Kr4Ozfoac-unsplash.9becd43275ba20441774.jpg",
+    "static/media/tom-pottiger-l5XnUP7-M4w-unsplash.jpg": "/ableton-clone/static/media/tom-pottiger-l5XnUP7-M4w-unsplash.d29364d6222f1d20be56.jpg",
+    "static/media/soundtrap-5Wj_tk8_Ens-unsplash.jpg": "/ableton-clone/static/media/soundtrap-5Wj_tk8_Ens-unsplash.d730b5cc0ab18854af72.jpg",
+    "static/media/linkedin-sales-solutions-4ImnFgDZjVQ-unsplash.jpg": "/ableton-clone/static/media/linkedin-sales-solutions-4ImnFgDZjVQ-unsplash.431c9349ee2738836658.jpg",
+    "static/media/barney-yau-BbGuVc9YTaw-unsplash.jpg": "/ableton-clone/static/media/barney-yau-BbGuVc9YTaw-unsplash.aaf8a29c7cd2b47dbc3f.jpg",
+    "static/media/dorsa-masghati-jyNlrIiObWQ-unsplash.jpg": "/ableton-clone/static/media/dorsa-masghati-jyNlrIiObWQ-unsplash.3a806c5bf182823646f2.jpg",
+    "static/media/tamas-pap-sLubgyNR31Y-unsplash.jpg": "/ableton-clone/static/media/tamas-pap-sLubgyNR31Y-unsplash.3ab63843ac6e56a3e1eb.jpg",
+    "static/media/logo.svg": "/ableton-clone/static/media/logo.6b821fbf2398542224861805fa8cf5cb.svg",
+    "index.html": "/ableton-clone/index.html",
+    "main.fb4b94d9.css.map": "/ableton-clone/static/css/main.fb4b94d9.css.map",
+    "main.b5b3086d.js.map": "/ableton-clone/static/js/main.b5b3086d.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4b94d9.css",
-    "static/js/main.81fc9ace.js"
+    "static/js/main.b5b3086d.js"
   ]
 }
