@@ -1,6 +1,7 @@
 # Ableton
 
 This is the clone project from [Frontend Practice](https://www.frontendpractice.com/projects/ableton).
+Click here to see it live => [Ableton Clone Demo](https://hannah-ganne.github.io/ableton-clone/)
 
 ## Screenshots ##
 <img width="1438" alt="Screenshot 2022-09-30 at 14 40 13" src="https://user-images.githubusercontent.com/48105337/193271860-0d0cba0a-cb65-4b9d-bdc3-3bf03f008e85.png">
